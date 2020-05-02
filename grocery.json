@@ -1,0 +1,85 @@
+{
+    "grocery":[{
+    "sl":1,
+    "item":"Bread",
+    "qty":1,
+    "unit":"Packet",
+    "dept":"Grocery",
+    "notes":"Modern Bread"
+    },
+{
+    "sl":2,
+    "item":"Jam",
+    "qty":200,
+    "unit":"Grams",
+    "dept":"Grocery",
+    "notes":"Happy Jam"
+},
+{
+    "sl":3,
+    "item":"Rice",
+    "qty":5,
+    "unit":"Kg",
+    "dept":"Grocery",
+    "notes":"Double horse"
+},
+{
+    "sl":4,
+    "item":"Green Chilly",
+    "qty":250,
+    "unit":"Grams",
+    "dept":"Vegetable",
+    "notes":"Fresh"
+},
+{
+    "sl":5,
+    "item":"Big-Onion",
+    "qty":2,
+    "unit":"Kg",
+    "dept":"Vegetable",
+    "notes":"Fresh"
+},
+
+{
+    "sl":6,
+    "item":"Biscuits",
+    "qty":500,
+    "unit":"Grams",
+    "dept":"Snacks",
+    "notes":"Oreo"
+},
+{
+    "sl":7,
+    "item":"Coffee Powder",
+    "qty":500,
+    "unit":"Grams",
+    "dept":"Beverages & Concentrates",
+    "notes":"Nescafe"
+},
+{
+    "sl":8,
+    "item":"Dish Whashinig liquid",
+    "qty":500,
+    "unit":"ml",
+    "dept":"cleaning & house hold",
+    "notes":"Lux"
+},
+{
+    "sl":9,
+    "item":"Fish",
+    "qty":1,
+    "unit":"Kg",
+    "dept":"Cold storage",
+    "notes":"Curry piece"
+},
+{
+    "sl":10,
+    "item":"Bath Soap",
+    "qty":1,
+    "unit":"Packet",
+    "dept":"Beauty & Hygiene",
+    "notes":"Dove"
+}
+
+]
+}
